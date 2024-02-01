@@ -15,3 +15,4 @@ int main(void)
 
     return 0;
 }
+// 5.a 6. ??? 7. for 8. 8 , answer = (3 * q - p * p) / 3;

@@ -14,4 +14,5 @@ int main(void)
     printf("%d",x5 + x4 - x3 - x2 + x1 - 6 );
 
 
+
 }

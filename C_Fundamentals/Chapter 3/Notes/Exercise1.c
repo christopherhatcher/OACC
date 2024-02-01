@@ -12,6 +12,10 @@ int main(void)
     float x;
     x = 8.124f;
     printf("|%-8.1f|\n", x);
+    int i;
+    float b,j;
+    scanf("%f%d%f", &b, &i, &j);
+    printf("%f,%d,%f", b,i, j);
 
 
 
