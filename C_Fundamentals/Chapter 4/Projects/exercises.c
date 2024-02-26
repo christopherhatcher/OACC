@@ -13,7 +13,8 @@ int main(void)
    i = 7;
    j = 8;
    int k = 9;
-   printf("%d\n", (i +10) % k / j);
+   printf("%d\n", (i +10) % k / j); 
+
 
    i = 1;
    j = 2;
