@@ -24,5 +24,7 @@ int main(void)
         commission = 39.00f;
     
     printf("Commission: $%.2f\n", commission);
+
+    return 0;
     
 }
